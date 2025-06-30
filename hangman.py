@@ -1,10 +1,10 @@
 import random
 
-import hangman_project.hangman_word as hangman_word
+import hangman_word as hangman_word
 
-from hangman_project.hangman_art import stages 
+from hangman_art import stages 
 
-from hangman_project.hangman_art import logo 
+from hangman_art import logo 
 
 print(logo[0])
 
