@@ -1,6 +1,6 @@
 import random
 
-import hangman_word as hangman_word
+import hangman_word
 
 from hangman_art import stages 
 
