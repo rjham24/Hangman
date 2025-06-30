@@ -29,6 +29,17 @@ python hangman.py
 Guess a letter: e
 _ e _ _ _ _
 ```
+## 📸 Game Snapshots
+
+### 🖼️ Initial Game Screen
+![Screenshot 1](screenshot1.png)
+
+### 🎯 Guess in Progress
+![Screenshot 2](screenshot2.png)
+
+### ✅ You Win / ❌ You Lose
+![Screenshot 3](screenshot3.png)
+
 
 ## 💻Created by
 **Ridhima Jham**
