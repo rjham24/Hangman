@@ -12,7 +12,6 @@ print(logo[0])
 lives = 6 
 
 chosen_word = random.choice(hangman_word.word_list)
-print(chosen_word)
 
 
 placeholder = ""
