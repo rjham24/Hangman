@@ -32,13 +32,13 @@ _ e _ _ _ _
 ## 📸 Game Snapshots
 
 ### 🖼️ Initial Game Screen
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](screenshot1.jpg)
 
 ### 🎯 Guess in Progress
-![Screenshot 2](screenshot2.png)
+![Screenshot 2](screenshot2.jpg)
 
 ### ✅ You Win / ❌ You Lose
-![Screenshot 3](screenshot3.png)
+![Screenshot 3](screenshot3.jpg)
 
 
 ## 💻Created by
